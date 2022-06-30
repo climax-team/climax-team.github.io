@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2db82186.css",
+    "main.js": "/static/js/main.ea800403.js",
+    "static/media/10pig.png": "/static/media/10pig.0db736e3bc6bbade9d9b.png",
+    "static/media/cmh.png": "/static/media/cmh.75df908694d4cb372e97.png",
+    "static/media/me.png": "/static/media/me.ba628eebf64f6e9b377a.png",
+    "static/media/gsg.png": "/static/media/gsg.9e0d00afb20de27741ef.png",
+    "static/media/kjs.png": "/static/media/kjs.0cbfa042d19071757add.png",
+    "static/media/bono.png": "/static/media/bono.81fb0fc77a1c43d5405f.png",
+    "static/media/DB.png": "/static/media/DB.9b43209c4b1fe0010e7b.png",
+    "static/media/Python.png": "/static/media/Python.f0c9d64775aac23759fe.png",
+    "static/media/frontwo.png": "/static/media/frontwo.564b2542f9b689c69808.png",
+    "static/media/Front.png": "/static/media/Front.4fd029d3be819941f95b.png",
+    "static/media/react.png": "/static/media/react.80045de70681e3171446.png",
+    "static/media/Xd.png": "/static/media/Xd.3dbe8888676cbb7d2563.png",
+    "static/media/AWS.png": "/static/media/AWS.42796768b6ebc37bb55c.png",
+    "index.html": "/index.html",
+    "main.2db82186.css.map": "/static/css/main.2db82186.css.map",
+    "main.ea800403.js.map": "/static/js/main.ea800403.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2db82186.css",
+    "static/js/main.ea800403.js"
+  ]
+}
